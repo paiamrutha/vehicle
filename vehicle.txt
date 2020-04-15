@@ -1,1 +1,3 @@
 "vehicle list" 
+"Vehicle Model: "
+"Vehicle Number: "
